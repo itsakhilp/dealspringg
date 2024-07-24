@@ -19,7 +19,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-full h-64 object-cover"
-              src="https://upload.wikimedia.org/wikipedia/commons/9/92/Youth-soccer-indiana.jpg" // Replace with actual image
+              src="https://upload.wikimedia.org/wikipedia/commons/9/92/Youth-soccer-indiana.jpg" 
               alt="Annual Sports Day"
             />
             <Carousel.Caption>
@@ -30,7 +30,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-full h-64 object-cover"
-              src="https://media.timeout.com/images/102315831/750/422/image.jpg" // Replace with actual image
+              src="https://media.timeout.com/images/102315831/750/422/image.jpg" 
               alt="Science Exhibition"
             />
             <Carousel.Caption>
